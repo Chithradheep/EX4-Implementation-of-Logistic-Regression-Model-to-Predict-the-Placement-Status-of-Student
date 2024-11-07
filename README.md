@@ -19,7 +19,7 @@ classification report.
 ## Program:
 ```
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: chithradheep R
+Developed by: Chithradheep R
 RegisterNumber:  2305002003
 import pandas as pd
 data=pd.read_csv("/content/ex45Placement_Data.csv")
@@ -63,6 +63,16 @@ cm_display.plot()
 ```
 
 ## Output:
+![Screenshot 2024-11-07 094454](https://github.com/user-attachments/assets/4301055b-a590-494f-8eec-51dc164f0b77)
+![Screenshot 2024-11-07 094522](https://github.com/user-attachments/assets/541d3275-9efd-4183-8410-9dbe0af050b4)
+![Screenshot 2024-11-07 094551](https://github.com/user-attachments/assets/8ade8c7b-35d2-433f-9406-b7784ade9e70)
+![Screenshot 2024-11-07 094620](https://github.com/user-attachments/assets/72e2737b-ced8-4b01-a81c-5e427921bbfd)
+![Screenshot 2024-11-07 094640](https://github.com/user-attachments/assets/020376a7-458c-4f29-88b4-6b5211e9b318)
+![Screenshot 2024-11-07 094658](https://github.com/user-attachments/assets/283000ba-3451-46be-9aef-d040477c3840)
+![Screenshot 2024-11-07 094725](https://github.com/user-attachments/assets/11bce8a8-a5b0-4b6c-b36d-a83be239e6bd)
+![Screenshot 2024-11-07 094752](https://github.com/user-attachments/assets/75bd45ea-1e8b-40e6-af27-50164d45164d)
+![Screenshot 2024-11-07 094817](https://github.com/user-attachments/assets/ac5d82de-5cb8-442a-bb84-1a0fe8bd71a9)
+![Screenshot 2024-11-07 094839](https://github.com/user-attachments/assets/7120989c-426c-4bf8-9a86-2e1d3731e015)
 ![image](https://github.com/user-attachments/assets/31b9ad79-b11e-4690-923b-f202ce839b4d)
 
 
